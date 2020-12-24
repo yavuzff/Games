@@ -1,0 +1,5 @@
+Input data in this format: Name, minimum speed, maximum speed, endurance, no of wins
+Tortoise 5 7 100 9
+Dog 5 12 25 7
+Hare 6 10 25 4
+Duck 5 14 20 0
